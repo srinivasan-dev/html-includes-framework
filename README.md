@@ -20,4 +20,5 @@ then run "lite-server" command
 
 It will serve the index html file, By default it will serve in localhost:3000
 
-
+******NOTE******
+Please run this project in any http server, DO NOT RUN THIS DIRECTY IN THE BROWSER
